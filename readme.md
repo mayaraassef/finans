@@ -12,6 +12,10 @@ O Projeto Finans foi criado para fixar o conhecimento adquirido no curso Desenvo
 
 No projeto Finans, eu utilizei as tecnologias HTML, CSS e Bootstrap.
 
+# Acesse o site através do seu dispositivo Desktop ou Mobile, clicando neste link:
+
+# https://finans10.netlify.app/
+
 # 📁Como baixar o projeto:
 
 ```
